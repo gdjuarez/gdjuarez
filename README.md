@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hola 👋, Soy Gustavo Juarez</h1>
 <h3 align="center">Un apasionado de la programación</h3>
 
@@ -8,7 +7,7 @@
 
 - 👯 Busco colaborar en el desarrollo de sistemas **Proyectos remotos**
 
-- 👨‍💻 mis Proyectos en [gdjuarez.site](gdjuarez.site)
+- 👨‍💻 mis Proyectos en [https://gdjuarez.site/](https://gdjuarez.site/)
 
 - 📫 How to reach me **dev@gdjuarez.site**
 
