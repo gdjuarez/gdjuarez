@@ -9,7 +9,7 @@
 
 - 👨‍💻 mis Proyectos en [https://gdjuarez.site/](https://gdjuarez.site/)
 
-- 📫 How to reach me **dev@gdjuarez.site**
+- 📫 como contactarme **dev@gdjuarez.site**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
